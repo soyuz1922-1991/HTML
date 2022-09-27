@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  background-color:blue
+}
+
+header {
+    position: relative;
+    paddling-left: 100px
+}
+
+nav {
+   position: absolute;
+   top:0;
+   right: 90px;
+}
+
+.lists {
+  display: flex;
+  color: yellow;
+  color-style-type: none;
+  text-align: center;
+}
+
+.list {
+  color: red;
+  paddling-yellow;
+  font-weight: bold;
+  font-size: 50px;
+}
+introductions {
+  paddliong-left: 100px;
+}
+
+introduction {
+  display: flex;
+}
+.soyuz {
+  paddling-left: 100px;
+  text-align: left;
+}
+
+.img {
+  width: 500px;
+}
+.text {
+   width 90%;
+}
+
+.media {
+  text-align: center;
+  paddling-top: 100px;
+}
